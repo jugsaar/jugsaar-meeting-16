@@ -1,3 +1,6 @@
 [submodule "code/enhanced-pet-clinic"]
 	path = code/enhanced-pet-clinic
 	url = https://github.com/jugsaar/enhanced-pet-clinic
+[submodule "code/spring-boot-4tw-uni"]
+	path = code/spring-boot-4tw-uni
+	url = https://github.com/jugsaar/spring-boot-4tw-uni.git
