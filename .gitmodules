@@ -1,0 +1,3 @@
+[submodule "code/enhanced-pet-clinic"]
+	path = code/enhanced-pet-clinic
+	url = https://github.com/jugsaar/enhanced-pet-clinic
