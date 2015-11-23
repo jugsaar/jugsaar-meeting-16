@@ -4,3 +4,6 @@
 [submodule "code/spring-boot-4tw-uni"]
 	path = code/spring-boot-4tw-uni
 	url = https://github.com/jugsaar/spring-boot-4tw-uni.git
+[submodule "code/twelvefactorapp"]
+	path = code/twelvefactorapp
+	url = https://github.com/jugsaar/twelvefactorapp
