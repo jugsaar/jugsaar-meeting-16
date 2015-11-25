@@ -7,3 +7,6 @@
 [submodule "code/twelvefactorapp"]
 	path = code/twelvefactorapp
 	url = https://github.com/jugsaar/twelvefactorapp
+[submodule "code/spring-music"]
+	path = code/spring-music
+	url = https://github.com/thomasdarimont/spring-music
